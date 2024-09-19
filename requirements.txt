@@ -3,12 +3,8 @@ scikit-learn
 tqdm
 imageio
 seaborn
-opencv-python
+opencv-python-headless  # Use headless version for deployment
 nltk
 pytest
-tensorflow
-matplotlib
-streamlit==1.25.0
 tensorflow==2.12.0
-numpy
-Pillow
+streamlit==1.25.0
