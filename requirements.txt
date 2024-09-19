@@ -1,13 +1,13 @@
-pandas
+streamlit
+numpy
+tensorflow==2.13.0
+opencv-python
+Pillow
 scikit-learn
+pandas
 tqdm
 imageio
 seaborn
-opencv-python
 nltk
 pytest
-tensorflow
 matplotlib
-Pillow
-
--e .
